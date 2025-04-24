@@ -18,9 +18,9 @@
 ## 🎯 2025 Learning Goals:
 - Deploy a full DevOps pipeline in the cloud
 - Automate infrastructure using Terraform
-- Pass a cloud certification (e.g., AWS Cloud Practitioner)
+- Pass a cloud certification
 - Build & document an open-source project
-- Create CI/CD workflows using **Jenkins & GitHub Actions**
+- Create CI/CD workflows
 - Develop automation scripts in **Python**
 
 ## 📫 How to reach me:

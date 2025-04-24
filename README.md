@@ -16,8 +16,6 @@
 - 🐧 **Linux & Bash**
 - 🔐 **Security Basics:** Cloud & Cyber fundamentals
 
----
-
 ## 🎯 2025 Learning Goals:
 - Deploy a full DevOps pipeline in the cloud
 - Automate infrastructure using Terraform
@@ -25,8 +23,6 @@
 - Build & document an open-source project
 - Create CI/CD workflows using **Jenkins & GitHub Actions**
 - Develop automation scripts in **Python**
-
----
 
 ## 📫 How to reach me:
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dominik-zygarski/))

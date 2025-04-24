@@ -4,8 +4,8 @@
 **🚀 Participant of the **Cloud Engineer Academy****  
 **🌩️ Aspiring **DevOps Engineer** / **Cloud Engineer****   
 
-## ✍️ I write articles and share my progress on Medium:  
-📘 [www.medium.com/@dominikzygarski]([https://medium.com/@your_nick](https://medium.com/@dominikzygarski_88070)
+## ✍️ I write articles and share my progress on:  
+📘 [Medium](https://medium.com/@dominikzygarski_88070)
 
 ## 🔧 Technologies I'm learning:
 - ☁️ **Cloud:** AWS

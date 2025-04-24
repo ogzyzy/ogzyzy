@@ -24,7 +24,7 @@
 - Develop automation scripts in **Python**
 
 ## 📫 How to reach me:
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dominik-zygarski/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/dominik-zygarski/)
 - 📧 Email: your.email@example.com
 
 ---

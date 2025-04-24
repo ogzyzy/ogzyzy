@@ -25,7 +25,7 @@
 
 ## 📫 How to reach me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/dominik-zygarski/)
-- 📧 Email: dominikzygarski@gmail.com
+- 📧 dominikzygarski@gmail.com
 
 ---
 

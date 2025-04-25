@@ -27,9 +27,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/dominik-zygarski/)
 - 📧 dominikzygarski@gmail.com
 
----
-
-> 🌱 "Every expert was once a beginner" – keep learning, keep building.
 <!--
 **ogzyzy/ogzyzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

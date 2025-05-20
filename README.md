@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-**🎓 IT student**  
+ 
 **🚀 Participant of the **Cloud Engineer Academy****  
 **🌩️ Aspiring **DevOps Engineer** / **Cloud Engineer****   
 

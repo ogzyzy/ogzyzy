@@ -1,9 +1,9 @@
 ## Hi there 👋
-**🎓 Advanced Analytics - Big Data Student**
+- **🎓 Advanced Analytics - Big Data Student**
 
-**🚀 Participant of the Cloud Engineer Academy**
+- **🚀 Participant of the Cloud Engineer Academy**
 
-**🌩️ Aspiring DevOps Engineer** / **Cloud Engineer**
+- **🌩️ Aspiring DevOps Engineer** / **Cloud Engineer**
 
 ## ✍️ I write articles and share my progress on:  
 - 📘 [Medium](https://medium.com/@dominikzygarski_88070)

@@ -1,6 +1,8 @@
 ## Hi there 👋
 **🎓 Advanced Analytics - Big Data Student**
+
 **🚀 Participant of the Cloud Engineer Academy**
+
 **🌩️ Aspiring DevOps Engineer** / **Cloud Engineer**
 
 ## ✍️ I write articles and share my progress on:  

@@ -6,7 +6,7 @@
 **🌩️ Aspiring DevOps Engineer** / **Cloud Engineer**
 
 ## ✍️ I write articles and share my progress on:  
-📘 [Medium](https://medium.com/@dominikzygarski_88070)
+- 📘 [Medium](https://medium.com/@dominikzygarski_88070)
 
 ## 🔧 Technologies I'm learning:
 - ☁️ **Cloud:** AWS

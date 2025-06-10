@@ -10,8 +10,9 @@
 
 ## 🔧 Technologies I'm learning:
 - ☁️ **Cloud:** AWS
-- 🐳 **DevOps Tools:** Docker, Kubernetes, GitHub Actions 
+- 🐳 **Containerization:** Docker, Kubernetes
 - 🧱 **Infrastructure as Code:** Terraform
+- 🔄 **CI/CD:** Jenkins, GitHub Actions
 - 🐍 **Programming:** Python (for scripting & automation)
 - 🐧 **Linux & Bash**
 - 🔐 **Security Basics:** Cloud & Cyber fundamentals
